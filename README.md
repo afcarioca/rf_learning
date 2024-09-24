@@ -6,7 +6,7 @@ O projeto em questão buscou apresentar uma solução para o problema _**Um Cont
 
 
 ## 🛠 Skills   
-<p align="center">
+<p>
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Logo 1" width="50" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="Logo 2" width="150" />
 </p>
