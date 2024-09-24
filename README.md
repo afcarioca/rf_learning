@@ -9,5 +9,5 @@ O projeto em questão buscou apresentar uma solução para o problema _**Um Cont
 <p>
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Logo 1" width="50" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="Logo 2" width="150" />
-   <img src="https://cdn.rawgit.com/ourcodeworld/robotyper/15f3393c/robotyper.png" width="50" />
+   <img src="https://cdn.rawgit.com/ourcodeworld/robotyper/15f3393c/robotyper.png" width="90" />
 </p>
