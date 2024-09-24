@@ -3,7 +3,7 @@
 O presente repositório é resultado das atividades realizadas durante a minha especialização em _**Inteligência Aritificial**_.
 O projeto em questão buscou apresentar uma solução para o problema _**Um Conto de Natal**_. 
 
-A descrição do problema que pode ser vista em: 
+A descrição do problema pode ser vista em: 
 https://www.deviante.com.br/noticias/aprendizado-por-reforco-um-conto-de-natal/
 
 ## 🛠 Skills   
